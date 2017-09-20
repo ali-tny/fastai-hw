@@ -1,0 +1,4 @@
+# ignore data folder contents
+data/*
+# but keep the directory itself
+!data/.gitkeepdir
