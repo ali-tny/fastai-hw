@@ -2,3 +2,6 @@
 data/*
 # but keep the directory itself
 !data/.gitkeepdir
+
+# sometimes store lecture videos for watching w/o internet access, so ignore
+*.mp4
